@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+
+
+.navbar{
+  padding: .8rem;
+}
+.navbar-nav li{
+  padding-right: 20px;
+}
+.nav-link{
+  font-size: 1.1rem ! important;
+}
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 992px) {
+
+  }
+@media (max-width: 768px) {
+.carousel-caption {
+  
+  top: 45%;
+  
+}
+.carousel-caption h1{
+  font-size: 200%
+}
+.carousel-cation h3{
+  font-size: 140%;
+  font-weight: 400;
+  padding: .2rem;
+}
+  
+}
+@media (max-width: 576px) {
+  
+}
+
+
+
+
+/
+[class*="col-"] {
+    padding: 1rem;
+}
+
+
+
+
+
+
+
+
+
+
